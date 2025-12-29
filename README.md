@@ -5,7 +5,7 @@ This repository contains the Python implementation of a study evaluating the imp
 ## Abstract
 This work evaluates the impact of climate change on residential cooling demand in Santa Cruz, Bolivia, using NASA POWER data and the Recursive BAIT model. Results indicate that peak demand could reach approximately **973.7 MW** by 2050, representing a significant increase over current baselines. 
 
-However, this regional analysis is intended as a foundational component for a comprehensive study of all regions in Bolivia. The ultimate objective is a national-scale analysis considering how climate change will affect the overall energy panorama. This includes not only the escalating demand for residential cooling but also the climate-driven availability of water for hydroelectric generation and biomass production. Such a multi-sectoral approach is essential to address energy security and climate vulnerability across Bolivia's diverse ecological regions.
+However, this regional analysis is intended as a foundational component for a comprehensive study of all regions in Bolivia. The ultimate objective is a national-scale analysis considering how climate change will affect the overall energy panorama. This includes not only the escalating demand for residential cooling but also the climate-driven availability of water for hydroelectric generation and biomass production. Such a multi-sectoral approach is essential to address energy security and climate vulnerability across Bolivia's diverse geographic regions.
 
 ## Key Features
 * **Climatic Data Integration:** Automated retrieval of hourly temperature data via the NASA POWER API.
