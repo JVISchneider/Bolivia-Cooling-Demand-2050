@@ -1,6 +1,4 @@
-# Bolivia-Cooling-Demand-2050
-This repository contains the Python implementation of a study evaluating the impact of climate change and demographic growth on residential cooling demand in Santa Cruz, Bolivia.
-# Residential Cooling Demand Projections for Santa Cruz, Bolivia (2050)
+# Bolivia-Cooling-Demand-2050: Residential Cooling Demand Projections for Santa Cruz, Bolivia (2050)
 ## Overview
 This repository contains the Python implementation of a study evaluating the impact of climate change and demographic growth on residential cooling demand in Santa Cruz, Bolivia. Using the **Recursive Building Adjusted Internal Temperature (BAIT)** model, the project simulates hourly grid loads for the year 2050 under two Shared Socioeconomic Pathways: **SSP1-2.6** and **SSP5-8.5**.
 
